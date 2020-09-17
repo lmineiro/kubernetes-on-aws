@@ -4,7 +4,7 @@ require (
 	github.com/NYTimes/gziphandler v1.0.1 // indirect
 	github.com/containerd/console v0.0.0-20181022165439-0650fd9eeb50 // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
-	github.com/evanphx/json-patch v4.2.0+incompatible
+	github.com/evanphx/json-patch v4.9.0+incompatible
 	github.com/gopherjs/gopherjs v0.0.0-20181103185306-d547d1d9531e // indirect
 	github.com/gregjones/httpcache v0.0.0-20181110185634-c63ab54fda8f // indirect
 	github.com/jteeuwen/go-bindata v0.0.0-20151023091102-a0ff2567cfb7
@@ -21,10 +21,10 @@ require (
 	github.com/zalando-incubator/kube-aws-iam-controller v0.1.2
 	github.com/zalando-incubator/stackset-controller v1.3.3
 	gopkg.in/warnings.v0 v0.1.2 // indirect
-	k8s.io/api v0.18.8
-	k8s.io/apimachinery v0.18.8
+	k8s.io/api v0.18.9
+	k8s.io/apimachinery v0.18.9
 	k8s.io/apiserver v0.0.0
-	k8s.io/client-go v0.18.8
+	k8s.io/client-go v0.18.9
 	k8s.io/kubernetes v0.0.0
 )
 
